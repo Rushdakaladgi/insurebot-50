@@ -1,4 +1,4 @@
-const BASE_URL = "https://insurebot-backend-50.onrender.com";
+const BASE_URL = "https://insurebot-50.onrender.com";
 
 function getToken() {
     return localStorage.getItem("token");
